@@ -2537,7 +2537,7 @@ function FlagCollision(me, detector) {
         refillCanvas();
       }, timer);
 }
-// See http://themushroomkingdom.net/smb_breakdown.shtml near bottom
+// See https://themushroomkingdom.net/smb_breakdown.shtml near bottom
 // Stages: 8, 28, 40, 62
 function scorePlayerFlag(diff, stone) {
   var amount;
