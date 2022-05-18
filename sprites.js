@@ -567,8 +567,8 @@ function clearAllSprites(clearcache) {
   if(clearcache) library.cache = {};
 }
 
-// http://www.html5rocks.com/en/tutorials/webgl/typed_arrays/
-// http://www.javascripture.com/Uint8ClampedArray
+// https://www.html5rocks.com/en/tutorials/webgl/typed_arrays/
+// https://www.javascripture.com/Uint8ClampedArray
 // function memcpyU8(source, destination, readloc, writeloc, length) {
   // if(readloc == null) readloc = 0;
   // if(length == null) length = source.length - readloc;
